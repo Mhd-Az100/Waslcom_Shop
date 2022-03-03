@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "197945848464",
+    "firebase_url": "https://waslcom.firebaseio.com",
+    "project_id": "waslcom",
+    "storage_bucket": "waslcom.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:197945848464:android:4de1ab1c11172970",
+        "android_client_info": {
+          "package_name": "com.ertiqasoft.waslcom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "197945848464-ao3q7tf92tbhvp8ajbfm12v7r3edngor.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPNOImcgWnSvrcTuJ6TAmnGpJALfGJCcY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "197945848464-ao3q7tf92tbhvp8ajbfm12v7r3edngor.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "197945848464-sf1dhnsr0pdcpgjjn628dch84kotsso0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ertiqasoft.waslcom",
+                "app_store_id": "1509564678"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
